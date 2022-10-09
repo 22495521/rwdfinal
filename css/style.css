@@ -80,7 +80,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('/images/header_desktop.png');
+    background: url('../images/header_desktop.png');
     max-width: 100%;
     height: 450px;
 }
@@ -403,13 +403,13 @@
     white-space:nowrap; /*希望元素在第一排上面，沒有斷行*/
 }
 .google-icon a{
-    background-image: url('/images/google.png');
+    background-image: url('../images/google.png');
 }
 .twitter-icon a{
-    background-image: url('/images/twitter.png');
+    background-image: url('../images/twitter.png');
 }
 .facebook-icon a{
-    background: url('/images/facebook.png');
+    background: url('../images/facebook.png');
 }
 /* icon連結 end */
 
