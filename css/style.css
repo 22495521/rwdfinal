@@ -52,7 +52,7 @@
     height: 50px;
     width: 50px;
     background:url('https://cdn-icons-png.flaticon.com/512/6015/6015685.png') no-repeat ;
-    background-color: red;
+    background-color: #fff;
     background-size: contain;
     text-indent:101%; /*首行縮排*/
     overflow:hidden; /*自動隱藏超出的文字或圖片*/
