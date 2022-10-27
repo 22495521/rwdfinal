@@ -729,10 +729,7 @@
     left: 10px;
     position: absolute;
 }
-.faactive {
-    color: red;
-    
-}
+
 
 @media(max-width:768px){
     .food-menu-content{
@@ -753,6 +750,7 @@
         font-size: 13px;
     }
 }
+
 
 @media(max-width:576px){
    .food-menu{
@@ -794,7 +792,9 @@
    }
   
 .classicbugger,.handsomebugger,.brotherbugger,.perfectbugger{
-    width: 45%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 60%;
  }
  .addshopcar{
     padding: 0 0;
@@ -803,12 +803,13 @@
     font-size: 21px;
  }
 }
-@media(max-width:414px){
+@media(max-width:375px){
+
 
     .classicbugger,.handsomebugger,.brotherbugger,.perfectbugger{
-        width: 100%;
+        width: 80%;
+        margin: 0 auto;
      }
-   
 
 }
 

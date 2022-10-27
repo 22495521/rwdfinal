@@ -4,7 +4,6 @@ $(document).ready(function () {
         $('.header ul').toggleClass('active');
     });
 
-
 });
 
 
