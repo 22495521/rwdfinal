@@ -3,7 +3,6 @@ $(document).ready(function () {
         e.preventDefault();
         $('.header ul').toggleClass('active');
     });
-
 });
 
 
